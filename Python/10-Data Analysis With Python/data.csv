@@ -1,0 +1,61 @@
+Date,Category,Value,Product,Sales,Region
+2026-01-02,A,120,Laptop,5,North
+2026-01-03,B,85,Mouse,20,East
+2026-01-04,C,150,Keyboard,15,West
+2026-01-05,A,220,Monitor,8,South
+2026-01-06,B,75,Headphones,18,North
+2026-01-07,C,95,Webcam,12,East
+2026-01-08,A,310,Printer,4,West
+2026-01-09,B,60,USB Drive,30,South
+2026-01-10,C,140,Router,10,North
+2026-01-11,A,450,Tablet,6,East
+2026-01-12,B,55,Mouse Pad,25,West
+2026-01-13,C,170,Speaker,9,South
+2026-01-14,A,125,Laptop Bag,14,North
+2026-01-15,B,200,SSD,7,East
+2026-01-16,C,90,Microphone,11,West
+2026-01-17,A,340,Projector,3,South
+2026-01-18,B,65,HDMI Cable,28,North
+2026-01-19,C,130,Power Bank,13,East
+2026-01-20,A,280,Graphics Card,2,West
+2026-01-21,B,70,Charger,19,South
+2026-01-22,C,180,Smart Watch,8,North
+2026-01-23,A,115,Desk Lamp,16,East
+2026-01-24,B,145,External HDD,6,West
+2026-01-25,C,88,Phone Stand,22,South
+2026-01-26,A,260,Gaming Mouse,7,North
+2026-01-27,B,98,Wireless Keyboard,10,East
+2026-01-28,C,210,Office Chair,5,West
+2026-01-29,A,135,WiFi Adapter,12,South
+2026-01-30,B,155,CPU Cooler,8,North
+2026-01-31,C,240,Mechanical Keyboard,4,East
+2026-02-01,A,320,Smartphone,9,West
+2026-02-02,B,68,Earbuds,21,South
+2026-02-03,C,185,Scanner,5,North
+2026-02-04,A,275,LED TV,3,East
+2026-02-05,B,92,Bluetooth Speaker,14,West
+2026-02-06,C,110,Tripod,17,South
+2026-02-07,A,410,Gaming Console,2,North
+2026-02-08,B,58,USB Hub,24,East
+2026-02-09,C,165,Camera,6,West
+2026-02-10,A,230,Drone,3,South
+2026-02-11,B,82,Memory Card,18,North
+2026-02-12,C,195,VR Headset,4,East
+2026-02-13,A,145,Wireless Charger,11,West
+2026-02-14,B,74,Stylus Pen,16,South
+2026-02-15,C,225,NAS Storage,2,North
+2026-02-16,A,118,Desk Fan,15,East
+2026-02-17,B,132,Monitor Stand,9,West
+2026-02-18,C,205,Action Camera,5,South
+2026-02-19,A,355,Workstation PC,2,North
+2026-02-20,B,64,Extension Board,20,East
+2026-02-21,C,155,Wireless Router,8,West
+2026-02-22,A,290,Mini PC,4,South
+2026-02-23,B,89,Laptop Stand,13,North
+2026-02-24,C,175,Document Scanner,6,East
+2026-02-25,A,245,Smart Display,5,West
+2026-02-26,B,72,Data Cable,27,South
+2026-02-27,C,160,Network Switch,7,North
+2026-02-28,A,330,All-in-One PC,3,East
+2026-03-01,B,95,Portable SSD,10,West
+2026-03-02,C,215,Gaming Headset,6,South
