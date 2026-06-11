@@ -1,0 +1,61 @@
+Transaction ID,Date,Product Categories,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Type
+TXN1001,2026-01-02,Electronics,Wireless Mouse,3,799,2397,North,UPI
+TXN1002,2026-01-03,Clothing,Men T-Shirt,5,499,2495,East,Credit Card
+TXN1003,2026-01-04,Groceries,Basmati Rice 5kg,2,699,1398,South,Cash
+TXN1004,2026-01-05,Home & Kitchen,Electric Kettle,1,1499,1499,West,Debit Card
+TXN1005,2026-01-06,Electronics,Bluetooth Speaker,2,1999,3998,North,UPI
+TXN1006,2026-01-07,Books,Data Science Handbook,4,599,2396,East,Credit Card
+TXN1007,2026-01-08,Beauty,Face Wash,6,249,1494,South,Cash
+TXN1008,2026-01-09,Sports,Yoga Mat,3,899,2697,West,UPI
+TXN1009,2026-01-10,Electronics,USB-C Charger,4,699,2796,North,Debit Card
+TXN1010,2026-01-11,Clothing,Women's Jeans,2,1299,2598,East,Credit Card
+TXN1011,2026-01-12,Groceries,Cooking Oil 1L,8,199,1592,South,Cash
+TXN1012,2026-01-13,Home & Kitchen,Non-Stick Pan,2,1199,2398,West,UPI
+TXN1013,2026-01-14,Electronics,Smart Watch,1,4999,4999,North,Credit Card
+TXN1014,2026-01-15,Books,Python Programming,3,799,2397,East,Debit Card
+TXN1015,2026-01-16,Beauty,Shampoo 500ml,5,349,1745,South,Cash
+TXN1016,2026-01-17,Sports,Cricket Bat,2,2499,4998,West,UPI
+TXN1017,2026-01-18,Electronics,Power Bank,4,999,3996,North,Credit Card
+TXN1018,2026-01-19,Clothing,Hoodie,3,1499,4497,East,Debit Card
+TXN1019,2026-01-20,Groceries,Tea Powder 1kg,5,399,1995,South,Cash
+TXN1020,2026-01-21,Home & Kitchen,Mixer Grinder,1,3499,3499,West,UPI
+TXN1021,2026-01-22,Electronics,Keyboard,3,899,2697,North,Credit Card
+TXN1022,2026-01-23,Books,Machine Learning Basics,2,899,1798,East,Debit Card
+TXN1023,2026-01-24,Beauty,Body Lotion,4,299,1196,South,Cash
+TXN1024,2026-01-25,Sports,Football,5,699,3495,West,UPI
+TXN1025,2026-01-26,Electronics,Earbuds,2,2499,4998,North,Credit Card
+TXN1026,2026-01-27,Clothing,Formal Shirt,4,899,3596,East,Debit Card
+TXN1027,2026-01-28,Groceries,Sugar 5kg,3,279,837,South,Cash
+TXN1028,2026-01-29,Home & Kitchen,Vacuum Cleaner,1,5999,5999,West,UPI
+TXN1029,2026-01-30,Electronics,Laptop Stand,2,1299,2598,North,Credit Card
+TXN1030,2026-01-31,Books,AI Fundamentals,3,699,2097,East,Debit Card
+TXN1031,2026-02-01,Beauty,Hair Oil,6,199,1194,South,Cash
+TXN1032,2026-02-02,Sports,Badminton Racket,2,1799,3598,West,UPI
+TXN1033,2026-02-03,Electronics,External Hard Drive,1,4499,4499,North,Credit Card
+TXN1034,2026-02-04,Clothing,Track Pants,4,799,3196,East,Debit Card
+TXN1035,2026-02-05,Groceries,Wheat Flour 10kg,2,499,998,South,Cash
+TXN1036,2026-02-06,Home & Kitchen,Air Fryer,1,6999,6999,West,UPI
+TXN1037,2026-02-07,Electronics,Monitor 24 Inch,2,8999,17998,North,Credit Card
+TXN1038,2026-02-08,Books,Cloud Computing Guide,2,749,1498,East,Debit Card
+TXN1039,2026-02-09,Beauty,Perfume,3,1299,3897,South,Cash
+TXN1040,2026-02-10,Sports,Dumbbell Set,2,2999,5998,West,UPI
+TXN1041,2026-02-11,Electronics,Webcam,3,1599,4797,North,Credit Card
+TXN1042,2026-02-12,Clothing,Jacket,2,2499,4998,East,Debit Card
+TXN1043,2026-02-13,Groceries,Coffee Powder,4,449,1796,South,Cash
+TXN1044,2026-02-14,Home & Kitchen,Water Purifier,1,8499,8499,West,UPI
+TXN1045,2026-02-15,Electronics,Gaming Mouse,2,1999,3998,North,Credit Card
+TXN1046,2026-02-16,Books,Database Systems,3,649,1947,East,Debit Card
+TXN1047,2026-02-17,Beauty,Sunscreen,5,399,1995,South,Cash
+TXN1048,2026-02-18,Sports,Skipping Rope,6,249,1494,West,UPI
+TXN1049,2026-02-19,Electronics,Router,2,2999,5998,North,Credit Card
+TXN1050,2026-02-20,Clothing,Casual Shoes,2,1999,3998,East,Debit Card
+TXN1051,2026-02-21,Groceries,Milk Powder,3,599,1797,South,Cash
+TXN1052,2026-02-22,Home & Kitchen,Induction Cooktop,1,2999,2999,West,UPI
+TXN1053,2026-02-23,Electronics,Tablet,1,14999,14999,North,Credit Card
+TXN1054,2026-02-24,Books,Operating Systems,2,799,1598,East,Debit Card
+TXN1055,2026-02-25,Beauty,Lip Balm,8,149,1192,South,Cash
+TXN1056,2026-02-26,Sports,Tennis Ball Pack,4,399,1596,West,UPI
+TXN1057,2026-02-27,Electronics,Graphics Tablet,1,5999,5999,North,Credit Card
+TXN1058,2026-02-28,Clothing,Sweatshirt,3,1199,3597,East,Debit Card
+TXN1059,2026-03-01,Groceries,Honey 500g,5,349,1745,South,Cash
+TXN1060,2026-03-02,Home & Kitchen,Coffee Maker,1,4999,4999,West,UPI
